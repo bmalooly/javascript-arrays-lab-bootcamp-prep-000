@@ -27,5 +27,3 @@ var kittens = ["Milo", "Otis", "Garfield"]
 function appendKitten(name) {
   return kittens.concat(4)
 }
-
-}
