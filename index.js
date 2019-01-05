@@ -21,3 +21,7 @@ var kittens = ["Milo", "Otis", "Garfield"]
 function destructivelyRemoveFirstKitten(array) {
   return kittens.shift()
 }
+
+var kittens = ["Milo", "Otis", "Garfield"]
+
+function 
