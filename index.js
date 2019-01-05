@@ -15,3 +15,7 @@ var kittens = ["Milo", "Otis", "Garfield"]
 function destructivelyRemoveLastKitten(array) {
   return kittens.pop()
 }
+
+var kittens = ["Milo", "Otis", "Garfield"]
+
+function 
